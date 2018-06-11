@@ -1,4 +1,3 @@
--- Seed Burgers into Database ... No Sesame! (hehehe)
 INSERT INTO burgers(burger_name, devoured, date)
 VALUES ("mac", false, "2018-05-23  04:20:00"),
   ("Plain Burger", false, "2018-05-23 5 04:20:01"),
